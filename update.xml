@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="gfmfahbcbfmlgbhpagejddhkkephcjdi">
+    <updatecheck codebase="https://github.com/adminimces/exymgcalendar/blob/a29bbda02d2978892b8ab4cb7d3a36168f9e7aaa/Exym%20GCalendar.crx" version="1.0.0" />
+  </app>
+</gupdate>
